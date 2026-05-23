@@ -57,7 +57,7 @@ MindChallenger/
 │       └── backgrounds/       # Fonds de scène par chapitre
 └── docs/
     ├── API_SETUP.md           # Guide de configuration de la clé API
-    ├── ARCHITECTURE.md   # Rôle détaillé de chaque fichier
+    ├── ARCHITECTURE.md        # Rôle détaillé de chaque fichier
     └── PROMPTS_IA.md          # Comportement demandé à l'IA
 ```
 
