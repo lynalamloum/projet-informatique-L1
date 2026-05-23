@@ -110,9 +110,3 @@ MindChallenger/
 - **Clé API protégée** : la clé n'est jamais exposée au navigateur. Elle transite uniquement côté serveur.
 - **Frontend vanilla** : JavaScript pur, sans framework ni bundler.
 - **Sources vérifiées** : l'IA ne peut citer que des sources du registre intégré à `server.js` (OCDE, OMS, ONU, Reuters Institute, Stanford HAI…).
-
----
-
-## Sécurité
-
-Ne commit jamais `.env.local`. Ce fichier est dans `.gitignore`. Si une clé a été exposée par erreur, révoque-la immédiatement sur [console.anthropic.com](https://console.anthropic.com).
