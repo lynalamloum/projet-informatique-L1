@@ -1,6 +1,6 @@
 # MindChallenger
 
-Jeu narratif de débat IA dans un tribunal intellectuel.
+MindChallenger est un jeu narratif de débat IA dans un tribunal intellectuel réalisé par Achahboun Wiam, Hivet Océan et Lamloum Lyna.
 
 Tu incarnes un Aspirant-Orateur convoqué à la Cour d'Aster. Tu choisis un adversaire, tu défends une position sur un sujet philosophique ou de société, et la juge Éléonore Moreau rend un verdict argumenté avec une fiche de progression personnalisée.
 
