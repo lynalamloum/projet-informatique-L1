@@ -1,0 +1,24 @@
+DEMARRAGE RAPIDE — MindChallenger
+==================================
+
+Ce fichier est pour toi si tu veux juste lancer le jeu.
+Pour la documentation technique complète, lis README.md.
+
+ETAPE 1 — Installer Node.js (une seule fois)
+  Télécharge-le sur : https://nodejs.org
+  Choisis la version "LTS".
+
+ETAPE 2 — Obtenir une clé API Anthropic (une seule fois)
+  Va sur : https://console.anthropic.com
+  Crée un compte, génère une clé. Elle commence par : sk-ant-...
+
+ETAPE 3 — Lancer le jeu
+  Double-clique sur : Lancer-MindChallenger.bat
+  Le script te demande ta clé la première fois, puis ouvre le jeu.
+  Les fois suivantes : double-clic, c'est tout.
+
+ARRETER LE JEU
+  Ferme la fenêtre noire. Le serveur s'arrête avec elle.
+
+PROBLEME ?
+  Consulte docs/API_SETUP.md ou README.md.

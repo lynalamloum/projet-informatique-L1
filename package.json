@@ -1,0 +1,16 @@
+{
+  "name": "mindchallenger",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Jeu narratif de débat IA dans un tribunal intellectuel — propulsé par Claude (Anthropic).",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "check": "node --check server.js && node --check public/src/app.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "author": "Francis Delrobot",
+  "license": "MIT"
+}

@@ -1,0 +1,15 @@
+# Clé API — ne jamais commiter
+.env.local
+.env
+
+# Dépendances (aucune ici, mais par précaution)
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
